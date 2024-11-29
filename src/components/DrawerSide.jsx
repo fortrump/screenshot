@@ -1,7 +1,7 @@
 import React, { useState, useMemo } from "react";
 import { Button, Drawer } from "antd";
 import { Icon } from "./Icons";
-import { BackgroundSelect } from "./BackgroundSelect";
+import BackgroundSelect from "./BackgroundSelect";
 import { cn, computedSize, scatterArray } from "../lib/utils";
 
 export const DrawerSide = ({
