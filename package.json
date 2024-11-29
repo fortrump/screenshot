@@ -15,7 +15,7 @@
     "@astrojs/react": "^3.0.8",
     "@astrojs/sitemap": "^3.0.3",
     "@astrojs/tailwind": "^5.0.4",
-    "@astrojs/vercel": "^6.1.0",
+    "@astrojs/cloudflare": "^8.0.0",
     "@emoji-mart/data": "^1.1.2",
     "@emoji-mart/react": "^1.1.1",
     "@huggingface/transformers": "^3.0.2",
